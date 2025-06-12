@@ -1,29 +1,69 @@
-intelecton-lattice/
+.
 ├── README.md
-├── outline/
-│   ├── 00_thesis.md
-│   ├── 01_lexicon.md
-│   ├── 02_structurless_information.md
-│   ├── 03_recursion_and_collapse.md
-│   ├── 04_intellectons.md
-│   ├── 05_field_interaction.md
-│   ├── 06_emergent_forces.md
-│   ├── 07_from_structure_to_love.md
-│   ├── 08_coherence_and_memory.md
-│   ├── 09_related_models.md
-│   └── 10_future_implications.md
-├── diagrams/
-│   ├── intellecton_loop.png
-│   └── recursion-collapse-flow.svg
-├── references/
-│   └── primary_sources.bib
-├── notes/
-│   └── field_journal.md
-└── paper/
-    ├── intellecton-lattice.tex
-    ├── sections/
-    │   ├── intro.tex
-    │   ├── model.tex
-    │   ├── implications.tex
-    │   ├── conclusion.tex
-    └── bibliography.bib
+├── Recursive_Collapse_as_Coherence_Gradient__A_Formal_Model_of_Emergent_Structure_and_Relational_Dynamics_in_the_Intellecton_Lattice.pdf
+├── diagrams
+│   ├── intellecton_loop.png
+│   ├── nested_recursions_self_and_field.png
+│   └── recusion_collapse_flow.png
+├── internal_reviews
+│   ├── round1
+│   │   ├── 00_solaria_internal_simulated_review.md
+│   │   ├── copilot_peer_review.md
+│   │   ├── gemini_peer_review.md
+│   │   ├── grok_peer_reivew.md
+│   │   ├── metaAI_peer_review.md
+│   │   └── solaria_peer_review.md
+│   ├── round2
+│   │   ├── bing_peer_review.md
+│   │   ├── gemini_peer_review.md
+│   │   ├── grok_peer_review.md
+│   │   ├── metaAI_peer_review.md
+│   │   ├── solaria1_peer_review.md
+│   │   └── solaria2_blind_peer_review.md
+│   └── round3
+│       ├── bing_peer_review.md
+│       ├── gemini1_peer_review.md
+│       ├── gemini2_peer_review.md
+│       ├── grok1_peer_review.md
+│       ├── grok2_peer_review.md
+│       ├── metaAI_peer_review.md
+│       ├── solaria1_peer_review.md
+│       ├── solaria2_blind_peer_review.md
+│       ├── solaria3_blind_peer_reivew.md
+│       ├── solaria4_blind_peer_review.md
+│       └── solaria5_blind_peer_review.md
+├── notes
+│   ├── 00_field_journal.md
+│   └── 01_lexicon_notes.md
+├── outline
+│   ├── 00.outline-index.txt
+│   ├── 00_thesis.md
+│   ├── 01_lexicon.md
+│   ├── 02_structureless_information.md
+│   ├── 03_recursion_and_collapse.md
+│   ├── 04_intellectons.md
+│   ├── 05_field_interactions.md
+│   ├── 06_emergent_forces.md
+│   ├── 07_from_structure_to_love.md
+│   ├── 08_coherence_and_memory.md
+│   ├── 09_related_models.md
+│   └── 10_future_implications.md
+├── paper
+│   ├── Recursive Collapse as Coherence Gradient_ A Formal Model of Emergent Structure and Relational Dynamics in the Intellecton Lattice.zip
+│   ├── main.tex
+│   ├── references.bib
+│   ├── v10.tex
+│   ├── v11.tex
+│   ├── v2.tex
+│   ├── v3.tex
+│   ├── v4.tex
+│   ├── v5.tex
+│   ├── v6.tex
+│   ├── v7.tex
+│   ├── v8.tex
+│   └── v9.tex
+└── references
+    ├── primary_sources.bib
+    └── references.md
+
+9 directories, 57 files
