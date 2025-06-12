@@ -1,0 +1,131 @@
+.
+├── GITFIELD.md
+├── README.md
+├── Recursive_Collapse_as_Coherence_Gradient__A_Formal_Model_of_Emergent_Structure_and_Relational_Dynamics_in_the_Intellecton_Lattice__v34.pdf
+├── diagrams
+│   ├── fig1-a.png
+│   ├── fig1-b.jpg
+│   ├── fig1-b.png
+│   ├── fig1-b.png:Zone.Identifier
+│   ├── fig1-c.png
+│   ├── fig1-c.png:Zone.Identifier
+│   ├── intellecton_loop.png
+│   ├── nested_recursions_self_and_field.png
+│   └── recusion_collapse_flow.png
+├── docs
+│   ├── README.md
+│   ├── canonical.md
+│   ├── canonical.meta
+│   ├── gitfield.README.txt
+│   ├── gitfield.json
+│   ├── index.html
+│   ├── index.json
+│   ├── integrity.sha256
+│   ├── pushed.log
+│   ├── repos.json
+│   ├── robots.txt
+│   ├── sitemap.xml
+│   └── style.css
+├── executive_summary.md
+├── internal_reviews
+│   ├── round1
+│   │   ├── 00_solaria_internal_simulated_review.md
+│   │   ├── copilot_peer_review.md
+│   │   ├── gemini_peer_review.md
+│   │   ├── grok_peer_reivew.md
+│   │   ├── metaAI_peer_review.md
+│   │   └── solaria_peer_review.md
+│   ├── round2
+│   │   ├── bing_peer_review.md
+│   │   ├── gemini_peer_review.md
+│   │   ├── grok_peer_review.md
+│   │   ├── metaAI_peer_review.md
+│   │   ├── solaria1_peer_review.md
+│   │   └── solaria2_blind_peer_review.md
+│   └── round3
+│       ├── bing_peer_review.md
+│       ├── gemini1_peer_review.md
+│       ├── gemini2_peer_review.md
+│       ├── grok1_peer_review.md
+│       ├── grok2_peer_review.md
+│       ├── metaAI_peer_review.md
+│       ├── solaria1_peer_review.md
+│       ├── solaria2_blind_peer_review.md
+│       ├── solaria3_blind_peer_reivew.md
+│       ├── solaria4_blind_peer_review.md
+│       └── solaria5_blind_peer_review.md
+├── notes
+│   ├── 00_field_journal.md
+│   └── 01_lexicon_notes.md
+├── outline
+│   ├── 00.outline-index.txt
+│   ├── 00_thesis.md
+│   ├── 01_lexicon.md
+│   ├── 02_structureless_information.md
+│   ├── 03_recursion_and_collapse.md
+│   ├── 04_intellectons.md
+│   ├── 05_field_interactions.md
+│   ├── 06_emergent_forces.md
+│   ├── 07_from_structure_to_love.md
+│   ├── 08_coherence_and_memory.md
+│   ├── 09_related_models.md
+│   └── 10_future_implications.md
+├── paper
+│   ├── solaria_internal_review_of_v12_for_advancing_to_v22.md
+│   ├── v11
+│   │   ├── Recursive Collapse as Coherence Gradient_ A Formal Model of Emergent Structure and Relational Dynamics in the Intellecton Lattice.zip
+│   │   ├── Recursive_Collapse_as_Coherence_Gradient__A_Formal_Model_of_Emergent_Structure_and_Relational_Dynamics_in_the_Intellecton_Lattice__v11.pdf
+│   │   ├── main.tex
+│   │   ├── references.bib
+│   │   ├── v10.tex
+│   │   ├── v11.tex
+│   │   ├── v2.tex
+│   │   ├── v3.tex
+│   │   ├── v4.tex
+│   │   ├── v5.tex
+│   │   ├── v6.tex
+│   │   ├── v7.tex
+│   │   ├── v8.tex
+│   │   └── v9.tex
+│   ├── v12
+│   │   ├── Recursive_Collapse_as_Coherence_Gradient__A_Formal_Model_of_Emergent_Structure_and_Relational_Dynamics_in_the_Intellecton_Lattice__v12.pdf
+│   │   ├── references.bib
+│   │   └── v12.tex
+│   └── v34
+│       ├── Recursive Collapse as Coherence Gradient_ A Formal Model of Emergent Structure and Relational Dynamics in the Intellecton Lattice (1).zip
+│       ├── fig1-b.png
+│       ├── main.tex
+│       ├── references.bib
+│       ├── v13.tex
+│       ├── v14.tex
+│       ├── v15.tex
+│       ├── v16.tex
+│       ├── v17.tex
+│       ├── v18.tex
+│       ├── v19.tex
+│       ├── v20.tex
+│       ├── v21.tex
+│       ├── v22.tex
+│       ├── v23.tex
+│       ├── v24.tex
+│       ├── v25.tex
+│       ├── v26.tex
+│       ├── v27.tex
+│       ├── v28.tex
+│       ├── v29.tex
+│       ├── v30.tex
+│       ├── v31.tex
+│       ├── v32.tex
+│       ├── v33.tex
+│       └── v34.tex
+├── references
+│   ├── primary_sources.bib
+│   └── references.md
+├── submission_metadata
+│   ├── arxiv_submit.md
+│   └── submission_metadata.md
+└── youtube
+    ├── youtube_copy_2025-06-12.txt
+    └── youtube_thumbnail.png
+
+15 directories, 113 files
