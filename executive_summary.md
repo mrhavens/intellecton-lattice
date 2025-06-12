@@ -1,7 +1,3 @@
-Here is a **one-page executive summary** for your project, styled for academic and visionary impact, suitable for including in your repository, media kits, or outreach emails. You can title it `executive_summary.md`.
-
----
-
 ### `executive_summary.md`
 
 # Executive Summary
