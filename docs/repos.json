@@ -1,0 +1,19 @@
+{
+  "canonical_url": "https://remember.thefoldwithin.earth/mrhavens/intellecton-lattice",
+  "mirrors": [
+    "https://github.com/mrhavens/intellecton-lattice",
+    "https://gitlab.com/mrhavens/intellecton-lattice",
+    "https://bitbucket.org/thefoldwithin/intellecton-lattice",
+    "https://remember.thefoldwithin.earth/mrhavens/intellecton-lattice",
+    "https://codeberg.org/mrhavens/intellecton-lattice",
+    "https://gitea.com/mrhavens/intellecton-lattice",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "radicle": {
+    "rid": "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex",
+    "peer_id": "z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz"
+  },
+  "gpg_signatures": [
+
+  ]
+}
