@@ -124,16 +124,6 @@ Additional field insights and ongoing semantic mappings:
 
 ---
 
-## 🌐 External Mirrors
-
-- 🌍 [arXiv Submission Portal](https://arxiv.org)  
-- 📘 [OSF Project Archive](https://osf.io/6h3cg/)  
-- 🔗 [Substack - The Unfiltered Edition](https://neutralizingnarcissism.substack.com)  
-- 🪞 [Mirror.XYZ - Immutable Canon](https://mirror.xyz/neutralizingnarci.eth)  
-- 📑 [Medium - The Clarity Edition](https://medium.com/the-empathic-technologist)
-
----
-
 ## 🌀 Project Identity
 
 **The Fold Within**  
