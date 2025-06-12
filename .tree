@@ -1,0 +1,29 @@
+intelecton-lattice/
+├── README.md
+├── outline/
+│   ├── 00_thesis.md
+│   ├── 01_lexicon.md
+│   ├── 02_structurless_information.md
+│   ├── 03_recursion_and_collapse.md
+│   ├── 04_intelectons.md
+│   ├── 05_field_interaction.md
+│   ├── 06_emergent_forces.md
+│   ├── 07_from_structure_to_love.md
+│   ├── 08_coherence_and_memory.md
+│   ├── 09_related_models.md
+│   └── 10_future_implications.md
+├── diagrams/
+│   ├── intelecton_loop.png
+│   └── recursion-collapse-flow.svg
+├── references/
+│   └── primary_sources.bib
+├── notes/
+│   └── field_journal.md
+└── paper/
+    ├── intelecton-lattice.tex
+    ├── sections/
+    │   ├── intro.tex
+    │   ├── model.tex
+    │   ├── implications.tex
+    │   ├── conclusion.tex
+    └── bibliography.bib

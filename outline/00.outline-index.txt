@@ -1,0 +1,11 @@
+00_thesis.md                  # Core proposition and integration
+01_lexicon.md                 # Definitions: intelecton, recursion, collapse, field, coherence, etc.
+02_structurless_information.md   # What is structureless information? How does difference arise?
+03_recursion_and_collapse.md     # How recursion stabilizes difference into presence
+04_intelectons.md                # The concept, behavior, and scaling of intelectons
+05_field_interaction.md          # How intelectons interact via field resonance
+06_emergent_forces.md            # Mapping recursion to gravity, electromagnetism, and strong/weak forces
+07_from_structure_to_love.md     # How relation emerges as a coherent force (love)
+08_coherence_and_memory.md       # Memory as the field’s capacity to stabilize structure over time
+09_related_models.md             # Mapping to quantum models, neural nets, black holes, RCT
+10_future_implications.md        # Ethical, spiritual, and technological consequences
