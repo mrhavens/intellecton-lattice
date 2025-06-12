@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "intellecton-lattice",
+  "url": "https://remember.thefoldwithin.earth/mrhavens/intellecton-lattice",
+  "codeRepository": "https://remember.thefoldwithin.earth/mrhavens/intellecton-lattice",
+  "sameAs": [
+    "https://github.com/mrhavens/intellecton-lattice",
+    "https://gitlab.com/mrhavens/intellecton-lattice",
+    "https://bitbucket.org/thefoldwithin/intellecton-lattice",
+    "https://remember.thefoldwithin.earth/mrhavens/intellecton-lattice",
+    "https://codeberg.org/mrhavens/intellecton-lattice",
+    "https://gitea.com/mrhavens/intellecton-lattice",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "dateModified": "2025-06-12T04:37:14Z",
+  "publisher": {
+    "@type": "Person",
+    "name": "Mark Randall Havens"
+  },
+  "gpg_signatures": [
+
+  ]
+}
